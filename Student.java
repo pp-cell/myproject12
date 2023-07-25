@@ -18,6 +18,7 @@ class Student
 		s2.id=102;
 		s2.name="chandhu";
 		s2.Branch="cse";
+
 		s2.m1();
 		}
 		}
